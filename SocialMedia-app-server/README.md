@@ -1,3 +1,3 @@
-# Social Media App
+# Sociopedia Backend
 
-A complete backend of social media project made with NodeJS
+A complete backend of social media project made with NodeJS, ExpressJS and MongoDB as database
